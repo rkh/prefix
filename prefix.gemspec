@@ -1,4 +1,4 @@
-Gem::Specification.new("prefix", "0.1.0") do |s|
+Gem::Specification.new("prefix", "0.1.1") do |s|
   s.authors     = ["Konstantin Haase"]
   s.email       = ["konstantin.mailinglists@googlemail.com"]
   s.homepage    = "http://github.com/rkh/prefix"
